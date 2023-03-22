@@ -1,0 +1,45 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HCKU927F52.fins.money",
+        "paths": [
+          "/icab/stock-market-detail/*",
+          "/icab/stock-market-detail/*/buy",
+          "/icab/stock-market-detail/*/sell",
+          "/icab/currency/market/*",
+          "/icab/currency/market/*/buy",
+          "/icab/currency/market/*/sell",
+          "/icab/fund/market/*",
+          "/icab/fund/market/*/buy",
+          "/icab/fund/market/*/sell",
+          "/icab/bond/market/*",
+          "/icab/bond/market/*/buy",
+          "/icab/bond/market/*/sell",
+          "/icab/stock-portfolio-detail/*/*",
+          "/icab/fund/portfolio/*/*",
+          "/icab/bond/portfolio/*/*",
+          "/icab/account/*/*",
+          "/icab/account/*/refill",
+          "/icab/structured-product/market/*",
+          "/icab/structured-product/market/*/buy",
+          "/icab/insurance-market-detail/*",
+          "/icab/insurance-market-detail/*/buy",
+          "/icab/structured-product/portfolio/*",
+          "/icab/auto-follow/market/*",
+          "/icab/auto-follow/portfolio/*",
+          "/icab/trust-management-market-detail/*",
+          "/icab/trust-management-asset-detail/*",
+          "/icab/bring-friend-campaign",
+          "/icab/profile",
+          "/icab/personal-data-update",
+          "/icab/documents-tax-deduction",
+          "/icab/documents/account-opening",
+          "/icab/profile-documents",
+          "/icab/help-center"
+        ]
+      }
+    ]
+  }
+}
