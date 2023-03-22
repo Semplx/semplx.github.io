@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "HCKU927F52.fins.money",
+        "appID": "HCKU927F52.money.fins",
         "paths": [
           "/icab/stock-market-detail/*",
           "/icab/stock-market-detail/*/buy",
